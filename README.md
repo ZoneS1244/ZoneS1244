@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @ZoneS1244
 - I am 14 years old
 - I'm interested in Javascript
-- The server where I share the discord bot: https://discord.gg/Xe5SKnF3XF
+- The server where I share the discord
+- My Discord : zones128
+- bot: https://discord.gg/Xe5SKnF3XF
